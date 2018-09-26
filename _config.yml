@@ -11,7 +11,7 @@ title:            'Data Monster'
 tagline:          'No tagline yet'
 description:      'Data explorations. <a href="http://hyde.getpoole.com">Hyde</a> theme produced by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://sachbhat.github.io
-baseurl:          /
+baseurl:          https://sachbhat.github.io/
 
 author:
   name:           'Sachin Bhatia'
