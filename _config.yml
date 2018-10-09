@@ -9,9 +9,10 @@ permalink:        pretty
 # Setup
 title:            'Data Monster'
 tagline:          'No tagline yet'
-description:      'Data explorations. <a href="http://hyde.getpoole.com">Hyde</a> theme produced by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Data explorations by a data scientist hobbyist.' 
+# <a href="http://hyde.getpoole.com">Hyde</a> theme produced by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://sachbhat.github.io
-baseurl:          https://sachbhat.github.io/
+baseurl:          /
 
 author:
   name:           'Sachin Bhatia'
