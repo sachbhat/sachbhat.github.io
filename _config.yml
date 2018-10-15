@@ -27,3 +27,5 @@ github:
   repo:           https://github.com/sachbhat/
 
 future: true
+
+theme: jekyll-theme-dinky
