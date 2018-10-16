@@ -1,29 +1,24 @@
-# Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
-
 # Permalinks
-permalink:        pretty
-# relative_permalinks: true
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 
 # Setup
-title:            'Data Monster'
-tagline:          'No tagline yet'
-description:      'Data explorations by a data scientist hobbyist.'
-# <a href="http://hyde.getpoole.com">Hyde</a> theme produced by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              'https://sachbhat.github.io'
-baseurl:          '/'
+title:               Inversion
+tagline:             'Turning things upside down before I write them down.'
+description:         'Deep data dives into subjects important to me (education, equity, social justice), notes on books read, and other miscellaneous things. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://sachbhat.github.io
+baseurl:             ''
+paginate:            5
 
+# About/contact
 author:
-  name:           'Sachin Bhatia'
-  url:            https://twitter.com/sachbhat
-
-paginate:         5
+  name:              Sachin Bhatia
+  url:               https://twitter.com/sachbhat
+  email:             sachinb#blog@gmail.com
 
 # Custom vars
-version:          2.1.0
+version:             1.0.0
 
-github:
-  repo:           https://github.com/sachbhat/
 
-future: true
+excerpt_separator: <!--more-->
