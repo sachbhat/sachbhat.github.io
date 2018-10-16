@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Inversion
-tagline:             'Learning by writing and turning things upside down'
-description:         'Deep data dives into subjects important to me (education, equity, social justice), notes on books read, and other miscellaneous things. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'Learning by turning things upside down'
+description:         'Deep data dives into subjects important to me (education, equity, social justice), notes on books read, and other miscellaneous things.'
 url:                 https://sachbhat.github.io
 baseurl:             ''
 paginate:            5
