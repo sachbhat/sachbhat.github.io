@@ -1,37 +1,39 @@
 ---
 layout: post
 title: Why you should ignore GreatSchools.org ratings
-date: 2018-10-10 22:08:22 -0700
-categories: education, data
-tags: education, data, equity, race
+date: 2018-10-15 16:24:43 -0700
+categories: [education, data]
+tags: [education, data, equity, race]
 
 ---
 
 
+Parents in Seattle Public Schools have the opportunity to select which school they prefer for their children, through the [School Choice](https://www.seattleschools.org/admissions/school_choice) program. This choice is the topic of constant conversations among parents. Over the past few years, my wife and I have had other parents ask us about our decision to send our kids to a school with "low ratings", "(a bad) reputation", and "equity issues." <!--more-->
+When we dig into the root of all of those parents' questions, we continue to find references to the de-facto default source on information on school quality: [GreatSchools](https://www.greatschools.org) (By "de-facto default", look at your results when you Google your local school's name, or search for houses on Zillow or Redfin in your neighborhood. GreatSchools holds prominent positions in all three). From their site:
+
+> GreatSchools is the leading national nonprofit empowering parents to unlock educational opportunities for their children. We provide school information and parenting resources to help millions of American families choose the right school, support learning at home, and guide their children to great futures.
+
+The idea that they help "choose the right school" is deeply flawed. While digging into the data, I see a reflection of class and race rather than school quality. It is a simplistic reflection of our broader societal issues, not a reflection of the ability for a school to teach our children. It's flawed in its approach to the data, alarmist in its language, and dangerous in its power to further segregate schools.
+
 <div class="message">
-<h3 style="text-decoration:underline">The Takeaway</h3>
+<h2>The Takeaway</h2>
+
 <ul>
 <li> GreatSchools.org relies on test data to make a composite score. That score has very different averages depending on student group (income, race, special education, language spoken at home).
 </li>
-<li>Due to the difference in aggregate scores across these student groups, it is misleading to make a comparisons of schools with very demographics
+<li>Due to the difference in aggregate scores across these student groups, it is misleading to make a comparison between schools with very different demographics
 </li>
 <li>The design of the site and composite rating doesn't take into consideration these demographic differences, so it's not a useful comparative tool for helping parents pick the right school for their kids
 </li>
 </ul>
 </div>
 
-Parents in Seattle Public Schools have the opportunity to select which school they prefer for their children, through the [School Choice](https://www.seattleschools.org/admissions/school_choice) program. This choice is the topic of constant conversations among parents. Over the past few years, my wife and I have had other parents ask us about our decision to send our kids to a school with "low ratings", "(a bad) reputation", and "equity issues." When we dig into the root of all of those parents' questions, we continue to find references to the de-facto default source on information on school quality: [GreatSchools](https://www.greatschools.org) (By "de-facto default", look at your results when you Google your local school's name, or search for houses on Zillow or Redfin in your neighborhood. GreatSchools holds prominent positions in all three). From their site:
-
-> GreatSchools is the leading national nonprofit empowering parents to unlock educational opportunities for their children. We provide school information and parenting resources to help millions of American families choose the right school, support learning at home, and guide their children to great futures.
-
-The idea that they help "choose the right school" is deeply flawed. While digging into the data, I see a reflection of class and race rather than school quality. It is a simplistic reflection of our broader societal issues, not a reflection of the ability for a school to teach our children. It's flawed in its approach to the data, alarmist in its language, and dangerous in its power to further segregate schools.
-
 
 ### Relying on aggregate test scores is a flawed approach
 
 GreatSchools builds a composite score for elementary schools based on test scores, student progress, and equity. All three of those inputs are, at root, based on tests that are shown to have significant differences between socio-economic and racial categories. For the State of Washington, one illustration of the difference is 3rd grade proficiency:
 
-![](/public/images/income-as-factor.png)
+![Household income is a factor in test performance](/public/images/income-as-factor.png)
 
 Low income students (poor kids) in 3rd grade are meeting standard 39% of the time, while those outside that categorization (rich kids) meet the standard 73% of the time. All things being equal, you are significantly more likely to pass the test if you're not poor.
 
@@ -94,7 +96,7 @@ While Sacajawea's student body is 27% low income, Decatur is only 8% low income 
 
 It's also important to look at scores by race. As much as we want to believe we are color-blind, the test scores show vastly different outcomes depending on race.
 
-![](/public/images/income-as-factor.png)
+![Race is a factor in test score performance](/public/images/race-as-factor.png)
 
 All things being equal, white kids are meeting 1.6x more often than African American kids.  This is where it gets additionally more confusing because we can't drill into the scores at one level beyond. We don't see data for poor white kids vs poor white kids. Without that level of detail, we're (again) comparing things that can't be compared, which is a reckless design pattern.
 
@@ -104,7 +106,8 @@ There is the potential for a self-reinforcing loop here. When parents take kids 
 
 And - don't get me wrong: I'm not saying that schools with poor kids can't be great. I'm saying that having poor kids makes it much harder for a school to be in a top percentile for performance and achieve a high GreatSchools rating. Rich schools, on average, have it much easier. And, if you add on the layer of race, it clouds things further.
 
-As parents, we need to be wary of GreatSchools as a data source. They aren't helping us find schools where our children will learn and thrive (that's the whole promise of this, after all, isn't it?). They may simply be helping us find ways to avoid integrating with kids that don't have it as easy. And with that, we're losing an opportunity to teach lessons beyond the test. 
+As parents, we need to be wary of GreatSchools as a data source. They may not be helping us find schools where our children will learn and thrive (that's the whole promise of this, after all, isn't it?). They may simply be helping us find ways to avoid integrating with kids that don't have it as easy. And with that, we're losing an opportunity to teach lessons beyond the test.
+
 
 ---
 

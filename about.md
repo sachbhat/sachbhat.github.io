@@ -3,28 +3,31 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### About Me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a former product leader for software companies, <strike>recently retired</strike> on sabbatical. I am using this blog to write thoughts as I learn things. I'm a bit older than this picture, but you get the idea:
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+![Sachin Bhatia](/public/images/sachin.jpeg)
 
 Thanks for reading!
+
+
+### Subjects
+
+I'm currently spending a lot of my time learning in the following areas:
+
+1. How to make better decisions ([mental models](https://fs.blog/mental-models/))
+2. Applied data science (Python, Pandas, PyTorch, etc.)
+3. Issues important to me (education, social justice, etc.)
+
+### Technical Details
+
+- Built using [Jekyll](http://jekyllrb.com)
+- Site theme is [Lanyon](http://lanyon.getpoole.com)
+- Hosted for free on [GitHub Pages](https://pages.github.com)
+
+### Contact information
+
+- Github: [sachbhat](https://github.com/sachbhat/)
+- Twitter: [@sachbhat](https://twitter.com/sachbhat?lang=en)
+- Email: sachin b at g mail dot com
