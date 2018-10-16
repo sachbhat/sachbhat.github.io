@@ -86,7 +86,7 @@ However, less than 1% of low income cohorts were able to pass over 65% of their 
 
 ### Comparing schools with different demographics is reckless
 
-GreatSchools over promises in their user interface. Imagine you are a parent who is zoned for Sacajawea -- the big call to action at the top of the page is to "See the 3 nearest high performing schools". And, they are all schools without a large block of low income students -- it continues to use an aggregate number rather that avoids demographic differences:
+GreatSchools over promises in their user interface. Imagine you are a parent who is zoned for Sacajawea -- the big call to action at the top of the page is to "See the 3 nearest high performing schools". And, they are all schools without a large block of low income students -- it continues to use an aggregate number and ignores demographic differences:
 
 ![Three alternatives to Sacajawea](/public/images/sacajawea-three-alternatives.png)
 
@@ -94,11 +94,11 @@ While Sacajawea's student body is 27% low income, Decatur is only 8% low income 
 
 ### Diversity beyond income
 
-It's also important to look at scores by race. As much as we want to believe we are color-blind, the test scores show vastly different outcomes depending on race.
+It's also important to look at scores by race, since test scores show vastly different outcomes depending on race.
 
 ![Race is a factor in test score performance](/public/images/race-as-factor.png)
 
-All things being equal, white kids are meeting 1.6x more often than African American kids.  This is where it gets additionally more confusing because we can't drill into the scores at one level beyond. We don't see data for poor white kids vs poor white kids. Without that level of detail, we're (again) comparing things that can't be compared, which is a reckless design pattern.
+All things being equal, white kids are meeting standards in 3rd grade 1.6x more often than African American kids.  This is where it gets more cloudy because we can't drill into the scores at one level beyond (low income *and* white). We don't see data for poor white kids vs poor black kids. Without that level of demographic detail, we're (again) comparing things that can't be compared, which is a reckless design pattern.
 
 ### The dangerous power of a self-reinforcing loop
 
