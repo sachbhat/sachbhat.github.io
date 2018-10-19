@@ -5,7 +5,7 @@ title: About
 
 ### About Me
 
-I'm a former software engineer and product leader for software companies, <strike>recently retired</strike> on sabbatical. I am using this blog to write thoughts as I learn things. As much as I want to influence, my larger goal is to stress test my own thinking by writing in a public forum.
+I'm a former engineer and product leader for software companies, <strike>recently retired</strike> on sabbatical. I am using this blog to write thoughts as I learn things. As much as I want to influence, my larger goal is to stress test my own thinking by writing in a public forum.
 
 I'm a bit older, grayer, and have more facial hair (both beard and brow) than this picture, but you get the general idea:
 
