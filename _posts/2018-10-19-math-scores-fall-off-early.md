@@ -7,7 +7,7 @@ tags: [education, data, equity, race]
 
 ---
 
-Here's an alarming chart about the difference in math scores in the first few years of a child's education. I don't have any strong fixes for the problems that underly this performance, but I found it interesting.
+Here's an alarming chart about the education gaps for the first few years of a child's education. I don't have any strong ideas for fixes, and don't even have a strong handle on the underlying problems, but the data is something that should drive discussion. 
 <!--more-->
 
 ![Fall off in students meeting math standards by grade](/public/images/meeting-math-standards.png)
