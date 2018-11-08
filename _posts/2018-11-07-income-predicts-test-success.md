@@ -8,8 +8,9 @@ tags: [education, data, equity, race]
 
 ![](/public/images/4061144276_a2c7811b4e_b.jpg)
 
-It's not new news that income can predict success in school (see [here](https://www.theatlantic.com/education/archive/2018/10/lacking-internet-millions-teens-cant-do-homework/574402/), [here](http://www.americaspromise.org/news/pbs-newshour-biggest-predictor-college-success-family-income), and [here](https://journals.sagepub.com/doi/abs/10.3102/0013189X18785632)), but I set out to determine the size of the gap in Washington schools, how it trends across grades, and whether schools with diversity (both rich and poor kids) have success. This is not a set of solutions, this is gathering baseline data to see trends and understand the divide.
+It's not new news that income can predict success in school (see [here](https://www.theatlantic.com/education/archive/2018/10/lacking-internet-millions-teens-cant-do-homework/574402/), [here](http://www.americaspromise.org/news/pbs-newshour-biggest-predictor-college-success-family-income), and [here](https://journals.sagepub.com/doi/abs/10.3102/0013189X18785632)), but I set out to determine the size of the gap in Washington schools, how it trends across grades, and whether schools with diversity (both rich and poor kids) have success. I don't propose any solutions here; I'm simply analyzing data to understand the divide.
 <!--more-->
+
 This post looks at Washington State data that is provided by the Office of Superintendent of Public Instruction (OSPI) for their Smarter Balanced Assesments that occur from grade 3 onwards. From this data source, I attempted to answer the following questions:
 
 1. What is the size of the achievement gap, as measured by assessment scores?
@@ -30,7 +31,7 @@ This post looks at Washington State data that is provided by the Office of Super
 
 ### What is the size of the achievement gap?
 
-One of the largest predictors of meeting standards at your grade is income. It's not the only factor, but for this article, I want to focus on it. In Washington, they report assessment scores starting in the 3rd grade. In 2018, the statewide gap for all grades was large. The perecentage of low income kids meeting grade level standards was 32 percentage points lower (44% vs 76%) in english language learning and 33 percentage points lower in math (33% vs 66%).
+One of the largest predictors of meeting standards at your grade is income. It's not the only factor, but for this article, I want to focus on it. In Washington, they report assessment scores starting in the 3rd grade. In 2018, the statewide gap for all grades was large. The percentage of low income kids meeting grade level standards was 32 percentage points lower (44% vs 76%) in english language learning and 33 percentage points lower in math (33% vs 66%).
 
 ![](/public/images/income-v-percent-meeting-standard-all-grades.png.png)
 
@@ -38,7 +39,7 @@ Put these numbers in perspective. If you aren't low income, you are twice as lik
 
 ### Does the gap widen or shrink as kids grow in grade?
 
-This is not apples-to-apples comparison, since we're not looking at individual students. But, when you plot the gap between these student groups for different grades, it gets interesting -- they both trend downwards for math across grades. Essentialy, the gap remains as kids fall further behind.
+This is not apples-to-apples comparison, since we're not looking at individual students. But, when you plot the gap between these student groups for different grades, it gets interesting -- they both trend downwards for math across grades. Essentially, the gap remains as kids fall further behind.
 
 ![](/public/images/income-v-percent-meeting-standard-math-line-plot.png)
 
@@ -64,12 +65,14 @@ This is just saying what we probably already know -- lower income kids are not d
 
 1. What is the effect of pre-school ("Pre-K Readiness") on closing the gap? The gap is wide as early as 3rd grade, and it sustains. Presumably, if we closed the gap before 3rd grade, it'd stick?
 
-2. What is the effect of not meeting standards on drop-out rates? Do we see personal correlation with failure in, say, 5th grade that predicts dropouts?
+2. What is effect of being below standard early in an academic career on drop-out rates? Do we see personal correlation with failure in, say, 5th grade that predicts dropouts?
 
-3. How does compound factors affect all of the above (e.g. race + income, homeless + income)? When taken together, there is likely some predictive analysis that can help us determine where an individualized educational program, social work, or tutoring is required.
+3. How does compound factors affect all of the above (e.g. race *plus* low income, homeless *plus* race)? When taken together, there is likely some predictive analysis that can help us determine where an individualized educational program, social work, or tutoring is required.
 
 4. Can we isolate individual schools we think are doing well and see those trends in the data?
 
-I'd love to encourage a discussion on this. I don't have comments on this site, but happy to post on Hacker News to continue the conversation and get your input on what types of data to explore next.
+I'd love to encourage a discussion on this. I don't have comments on this site, but will soon post on Hacker News to continue the conversation and get your input on what types of data to explore next.
+
+*This post was part of Udacity's Data Science coursework and is currently under review.*
 
 *Image used under Creative Commons license w/ 0 modification - photo by [Pommiebastards@Flickr](https://www.flickr.com/photos/pommiebastards/4061144276/in/photolist-7bSqGU-328522-2ZjX9c-zZX7jL-ozTGAs-nkHne6-mfKhhe-cLfH7o-7PpMom-4CXUUK-28tngD3-oTP3Uw-dJQeSd-523Hc8-oTPFnD-5xSnjt-FXNaVN-9DBqkh-67SrfN-ubq6Dy-7LgH8g-pbiUeX-7odam7-TmyNoU-9pCubX-26ZnFks-jDetEv-7anUKb-Fbn4X-5YgyKW-aqoZL5-7aF1Fz-7od6pJ-pyvTKB-51VmuA-4UekbF-9zUszY-9MJhMM-aqjRWF-iuBj5C-aqpQ7m-4F1pMZ-26HtRnW-ojcCQn-aqnnk9-aBmJn-bPzaUk-RYp1TV-8UAfit-2bgEGnt)*
