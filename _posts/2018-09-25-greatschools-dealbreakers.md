@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why I ignore GreatSchools.org ratings (and you should, too)
-date: 2018-10-15 16:24:43 -0700
+title: Why I ignored GreatSchools.org ratings
+date: 2018-11-05 16:24:43 -0700
 categories: [education, data]
 tags: [education, data, equity, race]
 

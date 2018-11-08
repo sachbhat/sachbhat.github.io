@@ -312,6 +312,10 @@ a.sidebar-nav-item:focus {
   margin-bottom: 4em;
 }
 
+.post a {
+  text-decoration: underline;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,

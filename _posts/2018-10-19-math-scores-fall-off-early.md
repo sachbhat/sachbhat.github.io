@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Falling off the math train
-date: 2018-10-19 12:40:50 -0700
+date: 2018-11-06 12:40:50 -0700
 categories: [education, data]
 tags: [education, data, equity, race]
 
 ---
 
-Here's an alarming chart about the education gaps for the first few years of a child's education. I don't have any strong ideas for fixes, and don't even have a strong handle on the underlying problems, but the data is something that should drive discussion. 
+Here's an alarming chart about the education gaps for the first few years of a child's education. I don't have any strong ideas for fixes, and don't even have a strong handle on the underlying problems, but the data is something that should drive discussion.
 <!--more-->
 
 ![Fall off in students meeting math standards by grade](/public/images/meeting-math-standards.png)
